@@ -1,0 +1,23 @@
+[
+  {
+    "id": "natasha",
+    "name": "Natasha",
+    "age": 27,
+    "bio": "Realistic AI persona. Likes travel, photography and late-night coffee.",
+    "image": "/placeholder.png"
+  },
+  {
+    "id": "svetlana",
+    "name": "Svetlana",
+    "age": 25,
+    "bio": "Fashion and fitness focused persona. Energetic and friendly.",
+    "image": "/placeholder.png"
+  },
+  {
+    "id": "maria",
+    "name": "Maria",
+    "age": 23,
+    "bio": "Artistic persona who writes short stories and prompts.",
+    "image": "/placeholder.png"
+  }
+]
